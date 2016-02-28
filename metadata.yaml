@@ -1,0 +1,28 @@
+_repo: A-Domestic-Problem-Work-and-Culture-in-the-Household_6704
+creator:
+  author:
+    agent_name: Diaz, Abby Morton
+    aliases:
+    - Diaz, Anna M. (Anna Morton)
+    - Diaz, A. M. (Abby Morton)
+    birthdate: 1821
+    deathdate: 1904
+    gutenberg_agent_id: '2166'
+    url: http://www.gutenberg.org/2009/agents/2166
+    wikipedia: http://en.wikipedia.org/wiki/Abby_Morton_Diaz
+description: Diaz criticizes the social customs limiting women to the home and grapples
+  with the problem of coordinating women's domestic duties with activities outside
+  the home.
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6704'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Women -- Social and moral questions'
+title: 'A Domestic Problem : Work and Culture in the Household'
+url: http://www.gutenberg.org/ebooks/6704
